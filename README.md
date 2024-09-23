@@ -2,6 +2,13 @@
 
 FlameGuard is a predictive machine learning model designed to forecast forest fires based on various environmental factors. By analyzing data like temperature, humidity, wind speed, and moisture indices, FlameGuard aims to mitigate the risks and impacts of forest fires, providing early warnings to enable faster and more efficient interventions. This project leverages advanced machine learning algorithms to help safeguard ecosystems, wildlife, and human communities from the devastating effects of forest fires.
 
+## Techwiz 5 Global Competition
+
+FlameGuard is being developed as part of the global competition **Techwiz 5**, where teams from around the world compete to create innovative technological solutions to pressing real-world problems. Our team, **MSG HASH**, is proudly participating in this competition from the platform of **Aptech MSG**. The project aims to showcase our expertise in machine learning and predictive analytics by addressing the critical issue of forest fire prediction. Through FlameGuard, we hope to contribute to environmental conservation by leveraging cutting-edge technology to predict and mitigate the risk of forest fires.
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
