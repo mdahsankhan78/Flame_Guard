@@ -128,6 +128,4 @@ To run the project locally, follow these steps:
 
 Contributions are welcome! Feel free to submit a pull request or report an issue. Please ensure your contributions align with the project’s goals and coding standards.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
